@@ -1,4 +1,4 @@
-# TO-fo List in Vue
+# TO-do List in Vue
 
 ## This is Vue crash course code from Hitesh choudhrey
 ### Playlist link : https://www.youtube.com/playlist?list=PLRAV69dS1uWTpHQgiV4rZFlnuS8XDl71A
@@ -27,5 +27,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue-Todo
-# Vue-Todo
