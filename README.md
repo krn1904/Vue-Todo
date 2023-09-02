@@ -1,9 +1,9 @@
-# hello-there
+# TO-fo List in Vue
 
-##This is Vue crash course code from Hitesh choudhrey
-### playlist link : https://www.youtube.com/playlist?list=PLRAV69dS1uWTpHQgiV4rZFlnuS8XDl71A
+## This is Vue crash course code from Hitesh choudhrey
+### Playlist link : https://www.youtube.com/playlist?list=PLRAV69dS1uWTpHQgiV4rZFlnuS8XDl71A
 
-##Note: This project still needs improvements in UI part. Add and improve CSS.
+# Note: This project still needs improvements in UI part. Add and improve CSS.
 
 ## Project setup
 ```
